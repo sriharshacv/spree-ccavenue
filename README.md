@@ -1,6 +1,6 @@
 Spree CCavenue
 ==============
-
+DON'T USE THIS. IT IS TOO OUTDATED TO BE REVIVED.
 Spree CCAvenue is an extension for integrating Spree with the CCAvenue (http://www.ccavenue.com) payment gateway.
 
 The extension by default redirects to the payment gateway at the payment step of the checkout process. If you are
